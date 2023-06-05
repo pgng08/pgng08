@@ -32,6 +32,11 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=plastic&logo=Windows)](https://github.com/pgng08)
 [![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=Linux)](https://github.com/pgng08)
 
+<p align="center">
+  <a href="https://github.com/pgng08">
+    <img src="https://komarev.com/ghpvc/?username=pgng08&color=lightgrey&style=plastic)" />
+  </a>
+</p>
 
 <!---
 - 👀 I’m interested in Programmation.
