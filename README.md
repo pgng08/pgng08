@@ -1,9 +1,9 @@
-- 👋 Hi, I’m a student learning web development.
+- 👋 Hi, I’m a full stack web developer.
 - 🌱 I’m currently improving my skills in the PHP and JavaScript domains.
 - 💞️ I’m looking to collaborate on interesting, innovative and OpenSource projects.
 - 🗣 I also speak French and Portuguese. ;)
 
-<a href="https://www.linkedin.com/in/pablogng">
+<a href="https://www.linkedin.com/in/pablogng" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 
@@ -16,7 +16,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=plastic&logo=MongoDB)](https://github.com/pgng08)
 
 
-### Frameworks, Technologies and Libraries
+### Frameworks, Technologies, Libraries and other tools
 [![Laravel](https://img.shields.io/badge/Laravel-black?style=plastic&logo=laravel)](https://github.com/pgng08)
 [![Angular](https://img.shields.io/badge/Angular-black?style=plastic&logo=angular)](https://github.com/pgng08)
 [![Material Design](https://img.shields.io/badge/MaterialDesign-black?style=plastic&logo=materialdesign)](https://github.com/pgng08)
@@ -33,7 +33,7 @@
 [![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=Linux)](https://github.com/pgng08)
 
 <p align="center">
-  <a href="https://github.com/pgng08">
+  <a href="https://github.com/pgng08" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=pgng08&color=lightgrey&style=plastic)" />
   </a>
 </p>
